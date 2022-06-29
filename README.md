@@ -1,1 +1,3 @@
-# Antique-Website-Design-Project
+#  Archaic 
+## ✨ A antique product website using HTML, CSS, BOOTSTRAP, JS, Jquery plugins. ✨
+
